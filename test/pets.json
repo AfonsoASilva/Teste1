@@ -1,0 +1,12 @@
+[
+    {"id": "1", "name": "Brutus1", "type": "dog", "status": "available"},
+    {"id": "2", "name": "Brutus2", "type": "dog", "status": "available"},
+    {"id": "3", "name": "Brutus3", "type": "dog", "status": "available"},
+    {"id": "4", "name": "Brutus4", "type": "dog", "status": "available"},
+    {"id": "5", "name": "Brutus5", "type": "dog", "status": "available"},
+    {"id": "6", "name": "Max1", "type": "cat", "status": "available"},
+    {"id": "7", "name": "Max2", "type": "cat", "status": "available"},
+    {"id": "8", "name": "Max3", "type": "cat", "status": "available"},
+    {"id": "9", "name": "Max4", "type": "cat", "status": "available"},
+    {"id": "10", "name": "Max5", "type": "cat", "status": "available"}
+]

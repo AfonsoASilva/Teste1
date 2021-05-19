@@ -1,0 +1,7 @@
+[
+    {"id": "1", "username": "maria1", "firstName": "Maria1", "lastName": "Assunção", "email": "maria1@mail.com", "password": "123456", "phone": "123456", "userStatus": 0},
+    {"id": "2", "username": "maria2", "firstName": "Maria2", "lastName": "Assunção", "email": "maria2@mail.com", "password": "123456", "phone": "123456", "userStatus": 0},
+    {"id": "3", "username": "maria3", "firstName": "Maria3", "lastName": "Assunção", "email": "maria3@mail.com", "password": "123456", "phone": "123456", "userStatus": 0},
+    {"id": "4", "username": "maria4", "firstName": "Maria4", "lastName": "Assunção", "email": "maria4@mail.com", "password": "123456", "phone": "123456", "userStatus": 0},
+    {"id": "5", "username": "maria5", "firstName": "Maria5", "lastName": "Assunção", "email": "maria5@mail.com", "password": "123456", "phone": "123456", "userStatus": 0}
+]
